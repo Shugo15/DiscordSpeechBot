@@ -1,0 +1,2 @@
+# DiscordSpeechBot
+Discord上で文章を読み上げるBot
