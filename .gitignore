@@ -1,0 +1,9 @@
+# Vscode
+.vscode
+
+# Environments
+.env
+.venv
+
+# Temporary files
+out.mp3

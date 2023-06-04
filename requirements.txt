@@ -1,0 +1,5 @@
+discord.py[voice]
+emoji
+ffmpeg-python
+ffmpy
+gTTS
